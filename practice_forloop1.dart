@@ -1,3 +1,5 @@
+import 'dart:io';
+
 void main()
 {
     for(int i=0;i<20;i++)
@@ -6,18 +8,18 @@ void main()
         {
             break;
         }
-        print(i + 10);
+        print(i + 1);
     }
 
 
 
-    for(int j=0;j<20;j++)
-    {
-        if(j==6)
-        {
-            continue;
-        }
-        print(j + 10);
-    }
+    // for(int j=0;j<20;j++)
+    // {
+    //     if(j==6)
+    //     {
+    //         continue;
+    //     }
+    //     print(j + 10);
+    // }
 
 }
