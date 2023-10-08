@@ -1,6 +1,6 @@
 void main()
 {
-  Set students = {"khushi","harsh","harsh"};
+  Set students = {"khushi","harsh","khushi"};
   Set students1 = {"jalpa","khushi","bhumi"};
     // List newlist = students.toList();
     // print("list is $newlist");

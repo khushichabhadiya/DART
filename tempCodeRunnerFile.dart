@@ -1,3 +1,2 @@
-students.forEach((element){
-    //     print(element);
-    // })
+var c = a / b;
+    // print(a);
